@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="daniel-map-marcadores-backend" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\54351\\Desktop\\UTN\\2w2\\2023\\3er\ semestre\\05-\ Programacion\ III\\tp---marcadores-113493-Grecco-Daniel\\Api\\ApiMarcadoresDaniel\\ApiMarcadoresDaniel\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
